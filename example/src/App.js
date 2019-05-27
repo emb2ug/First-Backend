@@ -7,11 +7,6 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <GetAuthorOfBook />
-        <img
-          width="300"
-          height="300"
-          src="https://www.adazing.com/wp-content/uploads/2019/02/open-book-clipart-03.png"
-        />
       </div>
     );
   }
